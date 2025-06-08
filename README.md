@@ -8,7 +8,7 @@
 
 ## Tecnologias que uso
 
-[Visual Studio Code](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Dev C++](https://img.shields.io/badge/Dev%20C++-blue?style=for-the-badge&logo=c%2B%2B)](https://www.bloodshed.net/devcpp.html)  
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
