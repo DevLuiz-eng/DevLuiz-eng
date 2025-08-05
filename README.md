@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Luiz Armando
-👨‍💻 Sobre mim
+
 🎓 Estudante de Engenharia de Software na UNIFAN
 💡 Apaixonado por tecnologia, com foco em desenvolvimento back-end e lógica de programação
 🚀 Atualmente desenvolvendo um sistema de controle de estoque em Java e aprimorando projetos anteriores
