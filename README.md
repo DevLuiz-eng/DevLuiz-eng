@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Luiz Armando
+#👋 Olá, eu sou o Luiz Armando
 
 🎓 Estudante de Engenharia de Software na UNIFAN
 💡 Apaixonado por tecnologia, com foco em desenvolvimento back-end e lógica de programação
